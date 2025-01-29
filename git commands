@@ -7,3 +7,6 @@ mkdir my-git-project && cd my-git-project
 git init
 git clone https://github.com/your-username/your-repo.git
 
+vi demo1
+git add .
+git commit -m ""
