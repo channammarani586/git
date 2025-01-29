@@ -1,0 +1,9 @@
+sudo yum isntall git -- yes 
+git --version
+
+git config --global user.name "Your Name"
+git config --global user.email "your-email@example.com"
+mkdir my-git-project && cd my-git-project
+git init
+git clone https://github.com/your-username/your-repo.git
+
